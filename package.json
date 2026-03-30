@@ -1,0 +1,24 @@
+{
+  "name": "hero-wars-tracker",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000h\u0000e\u0000r\u0000o\u0000-\u0000w\u0000a\u0000r\u0000s\u0000-\u0000t\u0000r\u0000a\u0000c\u0000k\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rayneur1984/hero-wars-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rayneur1984/hero-wars-tracker/issues"
+  },
+  "homepage": "https://github.com/Rayneur1984/hero-wars-tracker#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
