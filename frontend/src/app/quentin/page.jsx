@@ -1,7 +1,7 @@
 export default function Page () {
     return (
-        <div className={``} >
-            Quentin
+        <div className={`bg-red-400`} >
+            Quentin comment tu vas ???
         </div>
     )
 }
